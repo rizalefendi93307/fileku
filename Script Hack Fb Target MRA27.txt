@@ -1,0 +1,20 @@
+TOOLS BY MRA27
+
+
+apt update
+
+apt upgrade
+
+pkg install git
+
+pkg install python2
+
+pip2 install --upgrade pip
+
+pip2 install mechanize
+
+git clone https://github.com/MRA27/FBNEW
+
+cd FBNEW
+
+python2 MRA27.py
