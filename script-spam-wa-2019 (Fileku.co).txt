@@ -1,0 +1,8 @@
+$ pkg install git php python2 cowsay figlet toilet ruby (enter) 
+$ gem install lolcat (enter) 
+$ pip2 install toilet (enter) 
+$ pip2 install lolcat (enter) 
+$ pkg install php (enter) 
+$ git clone https://github.com/GUNAWAN18ID/B3604-spam-v1.git 
+$ cd B3604-spam-v1 (enter) 
+$ bash B3604-spam.sh 
