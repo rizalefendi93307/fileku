@@ -1,0 +1,9 @@
+ pkg update 
+ pkg upgrade 
+ pkg install figlet 
+ pkg install python2
+ pkg install git 
+ git clone https://github.com/IlayTamvan/Report
+ unzip Report.zip
+ ls
+ python2 Report.py
