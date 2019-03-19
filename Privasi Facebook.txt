@@ -1,0 +1,33 @@
+
+
+CARA MENGETAHUI PRIVASI TEMAN FACEBOOK KITA SEPERTI, ID, EMAIL, NO TELP.
+SAYA TEKANKAN, INI TIDAK MENAMPILKAN PASSWORD YANG DI ENKRIPSI TEMAN FACEBOOK.
+TUTORIAL INI COCOK UNTUK YANG MAU STALKING TINGGAL TUNGGU NAMA FACEBOOKNYA, TINGGAL SAVE EMAIL / NO TELPNYA. KONTEK DEH .. :v
+
+Silahkan teman teman ikuti step by step script di bawah ini.
+
+$ apt update && apt upgrade
+$ apt install python2
+$ pip2 install requests mechanize
+$ apt install git
+$ git clone https://github.com/CiKu370/OSIF.git
+$ cd OSIF
+$ pip2 install -r requirements.txt
+$ python2 osif.py
+
+ketikan token
+
+log in facebook kalian 
+
+jika sukses generate acces tokennya
+
+lalu ketikan help
+
+tinggal di dump aja seperti yang ada di video.
+
+nanti otomatis daftar pertemanan facebook kalian akan menampilkan sesuai dump yang kalian pilih.
+
+
+JANGAN LUPA SUBSCRIBE
+
+TERIMAKASIH......
