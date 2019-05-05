@@ -1,5 +1,5 @@
 <?php 
-//decrypter BY Mr_MSDV
+//decrypter BY MR.057
 $ {
     "GLOBALS"
 }
